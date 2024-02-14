@@ -9,11 +9,11 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 https://www.figma.com/file/fNnfCoxTaYQVdUub9OFBx2/Untitled?type=design&node-id=0%3A1&mode=design&t=L9bdKk4Me7nEnzDA-1
 
 # Бизнес процессы:
-![first](BuisnessPerocess/Снимок1.png)
-![](BuisnessPerocess/Снимок2.png)
-![](BuisnessPerocess/Снимок3.png)
-![](BuisnessPerocess/Снимок4.png)
-![](BuisnessPerocess/Снимок5.png)
-![](BuisnessPerocess/Снимок6.png)
-![](BuisnessPerocess/Снимок7.png)
-![](BuisnessPerocess/Снимок8.png)
+![first](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок1.PNG)
+![second](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок2.PNG)
+![third](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок3.PNG)
+![fourth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок4.PNG)
+![fifth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок5.PNG)
+![sixth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок6.PNG)
+![seventh](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок7.PNG)
+![eightth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок8.PNG)
