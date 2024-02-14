@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 https://www.figma.com/file/fNnfCoxTaYQVdUub9OFBx2/Untitled?type=design&node-id=0%3A1&mode=design&t=L9bdKk4Me7nEnzDA-1
 
 # Бизнес процессы:
-![](BuisnessPerocess/Снимок1.png)
+![first](BuisnessPerocess/Снимок1.png)
 ![](BuisnessPerocess/Снимок2.png)
 ![](BuisnessPerocess/Снимок3.png)
 ![](BuisnessPerocess/Снимок4.png)
