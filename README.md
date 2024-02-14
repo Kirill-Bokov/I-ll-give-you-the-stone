@@ -11,6 +11,7 @@ https://www.figma.com/file/fNnfCoxTaYQVdUub9OFBx2/Untitled?type=design&node-id=0
 # Бизнес процессы:
 Список обозначений: 
 ![first](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок1.PNG)
+![card](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок9.png)
 
 Процессы:
 ![second](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/Снимок2.PNG)
