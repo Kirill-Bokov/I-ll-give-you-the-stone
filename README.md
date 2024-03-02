@@ -31,6 +31,4 @@ https://www.figma.com/file/fNnfCoxTaYQVdUub9OFBx2/Untitled?type=design&node-id=0
 # Модели бизнес-процессов 
 https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=sharing_eip_se_dm&ts=65c63363 
 # Заинтересованные лица
-![GbdPG7V9LN4](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/a36c19ee-4e7f-4ad5-92bd-9c54daeb27c0)
-![jBIkz6-tmFE](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/cca3abb4-5fc9-494a-8887-71338fe3039a)
-![AoUh8ZiTpF4](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/a8bc3294-177b-4ece-956c-254f7349635c)
+
