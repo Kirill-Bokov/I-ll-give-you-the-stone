@@ -1,7 +1,7 @@
 # Камень я дам
 Сайт, посвящённый продаже лечебных минералов
 
-![pfi![Screenshot_29](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/795908cb-f666-458a-a141-a7c63c284e5b)
+![Screenshot_30](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/9c8b0543-40a2-47ef-a2a9-7d2af8f5a040)
 ![Screenshot_29](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/96f4f457-f6d6-4266-81ff-e11e249e3db5)
 ![pthird](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres3.png)
 ![Screenshot_23](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/4273669e-14ce-418e-ad4b-244c894ea459)
