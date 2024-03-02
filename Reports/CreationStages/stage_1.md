@@ -12,6 +12,7 @@
 ![Снимок6](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/53bad62a-7849-4c3c-b89c-ec43c3cccba8)
 ![Снимок7](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/eca76cd4-2154-45a0-a885-c2a0446d1cef)
 ![Снимок8](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/f7d4281b-3b39-4dc3-b6a4-728b6b2797fe)
+
 ![Снимок9](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/1124478a-b5c1-4c9c-b1ed-37f0ef578dcf)
 
 ### Итоги этапа:
