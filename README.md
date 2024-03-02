@@ -5,6 +5,8 @@
 ![psecond](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres2.png)
 ![pthird](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres3.png)
 ![pfourth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres4.png)
+![Screenshot_23](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/4273669e-14ce-418e-ad4b-244c894ea459)
+
 ![pfifth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres5.png)
 ![psixth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres6.png)
 ![pseventh](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres7.png)
