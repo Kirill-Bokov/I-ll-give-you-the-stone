@@ -9,8 +9,7 @@
 ![psixth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres6.png)
 ![Screenshot_27](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/db604774-076a-4d09-b6cd-2e7b9a4ecca7)
 ![peightth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres8.png)
-![Screenshot_28](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/e4e76b3e-f6fb-4de9-87d7-4a33542c175e)
-
+![Screenshot_31](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/c932fa18-aa22-4bc0-a177-3154512143ee)
 
 # Ссылка на макет
 https://www.figma.com/file/fNnfCoxTaYQVdUub9OFBx2/Untitled?type=design&node-id=0%3A1&mode=design&t=L9bdKk4Me7nEnzDA-1
