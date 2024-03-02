@@ -7,7 +7,7 @@
 ![Screenshot_23](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/4273669e-14ce-418e-ad4b-244c894ea459)
 ![Screenshot_26](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/fbcb1b76-6cd0-4565-9661-2b628274c968)
 ![psixth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres6.png)
-![pseventh](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres7.png)
+![Screenshot_27](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/db604774-076a-4d09-b6cd-2e7b9a4ecca7)
 ![peightth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/Presentations/Pres8.png)
 
 # Ссылка на макет
