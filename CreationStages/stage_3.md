@@ -1,0 +1,1 @@
+![КД](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/КД.PNG)
