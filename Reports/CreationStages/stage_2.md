@@ -15,6 +15,8 @@
 ![fr1qsll6YM8](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/df4f1732-3e37-48c3-854f-0e46128de4d9)
 ![zTkKOenTG7Q](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/2a599d55-8853-436f-8e68-3d0f1a975bbc)
 
+#### Контекстная диагарамма 
+![КД](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/main/BuisnessProcess/КД.PNG)
 
 ### Итоги этапа:
 
