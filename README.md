@@ -1,4 +1,6 @@
 # Камень я дам
+
+# Функциональные требования 
 Функциональные требования к системе:
 Система – магазин по продаже камней, название «Камень я дам». Требования составлены на основе анализа заинтересованных сторон и бизнес-процессов. Общее требование – быть коммерчески выгодным магазином по продаже камней.  
 Задача системы – автоматизировать следующие процессы:  
@@ -47,7 +49,7 @@ https://www.figma.com/file/fNnfCoxTaYQVdUub9OFBx2/Untitled?type=design&node-id=0
 ![bpseventh](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Снимок7.png)
 ![bpeightth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Снимок8.png)
 
-# Модели бизнес-процессов 
+# Модели и диаграммы 
 https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=sharing_eip_se_dm&ts=65c63363 
 # Заинтересованные лица
 
