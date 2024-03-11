@@ -51,3 +51,6 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 
 # Заинтересованные лица
 
+![-O0CPcpX3EE](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/0df9b8ad-07af-46c6-a12c-5a6160b5e2be)
+
+![7-q-6E5FSM4](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/9a211576-959c-4bd2-8f5d-d5995f448b79)
