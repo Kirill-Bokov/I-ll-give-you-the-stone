@@ -60,6 +60,9 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 ![bpseventh](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Оплата_товара.PNG)
 ![bpeightth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Получение_и_хранения_товара.PNG)
 ![bpninth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Прием_и_обработка_заказа.PNG)
+![bpten](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Анализ_статистики.png)
+
+
 
 
 ## Контекстная диаграмма
@@ -89,12 +92,16 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 5. Процесс закупки товара 
 6. Процесс доставки товара
 
-![bpkd](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Контекстная_диаграмма.PNG)
+![bpkd](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Контекстнаядиаграмма.png)
 
 
 ## Диаграмма классов 
 В рамках нашей системы центральной сущностью является ЗАКАЗ, у которого есть следующие атрибуты: уникальный номер заказа, вес данного заказа, количество товаров в данном заказе, дата заказа, стоимость заказа и статус заказа. Каждый ЗАКАЗ может содержать один и более ТОВАРОВ, атрибуты ТОВАРА: название камня, все камня, цена камня, описание камня, место хранения . Каждый ЗАКАЗ имеет только одного ПОКУПАТЕЛЯ, но при этом один ПОКУПАТЕЛЬ может иметь несколько ЗАКАЗОВ. ПОКУПАТЕЛЬ имеет следующие атрибуты: ФИО, номер телефона, адреса для доставки, электронная почты и дата рождения (для статистики). Каждый ПОКУПАТЕЛЬ может совершать одну или больше ТРАНЗАКЦИЙ, которые имеют следующие атрибуты: номер транзакции, сумма оплаты и дата платежа. Кроме того существует сущность ПОСТАВЩИК с атрибутами: название компании, ИНН, номер расчетного счета для оплаты товаров. ПОСТАВЩИК выполняет ЗАКАЗЫ НА ПОСТАВКУ, которые включают в себя перечень товаров в заказе, стоимость заказа, дату заказа. ЗАКАЗ НА ПОСТАВКУ может иметь только одного ПОСТАВЩИКА и при этом имеет связь 1 ко многим с ТОВАРОМ. Также существует сущность СКЛАД, которая имеет связь с ТОВАРОМ. Атрибуты СКЛАДА: название, адрес, вместимость, загруженность. Кроме этого существует сущность СЛУЖБА ДОСТАВКИ с атрибутами …. СЛУЖБА ДОСТАВКИ имеет связь с ЗАКАЗОМ. Один ЗАКАЗ может выполнять только одна СЛУЖБА ДОСТАВКИ.
 ![bpDK](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/ДК.PNG)
+
+
+##  Первичная диаграмма данных
+![bpDd](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/мдель_данных.png)
 
 
 ## Заинтересованные лица
