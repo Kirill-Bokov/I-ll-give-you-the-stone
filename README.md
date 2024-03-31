@@ -1,5 +1,12 @@
 # Камень я дам
 
+# План на пятую итерацию
+
+![Screenshot_27](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/7f9d5386-acee-41fa-a47d-166d6d93a5e6)
+![Screenshot_28](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/409f3194-8f2e-486e-b1c4-6a3796993589)
+![Screenshot_29](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/115d3f61-bd39-4fc0-aa63-0bc0edfd1e1f)
+
+
 ## Функциональные требования 
 Функциональные требования к системе:
 Система – магазин по продаже камней, название «Камень я дам». Требования составлены на основе анализа заинтересованных сторон и бизнес-процессов. Общее требование – быть коммерчески выгодным магазином по продаже камней.  
