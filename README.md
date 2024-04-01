@@ -113,13 +113,14 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 
 ## Заинтересованные лица
 
-![Screenshot_65](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/7cdc6d48-57cd-477a-8847-788ddde42700)
+![0ibmiIgmvhs](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/6cb999f2-3b29-4309-a79f-7d7186b99955)
 
 
-![O_r8VkRCJss](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/791287d8-2a9c-4351-bd49-0c1608482a40)
-![1-z0V5HT1I8](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/aefc298f-b4b7-49e2-bdbe-4bb54896087c)
-![9ONZY9KavR0](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/5e09692b-a87b-4e37-bae5-f9bce663d91c)
-![qhf5fl0IJgk](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/1bf5386a-d6c0-4613-8d05-eda5b008ca54)
+
+![XmEcOLiI4Hs](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/fcb5e70b-fc09-4fde-bd74-32621f9c16dc)
+![H4cE4tBu2o8](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/5026360e-c928-4eec-831f-cb78363e6400)
+![Ew8KQF7AXeU](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/283721b6-5766-4313-b517-619e316b3f54)
+
 
 ## Обеспечение безопасности
 ![InfoBez](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/117998993/ea378251-a219-4542-9afe-fc095c38072e)
