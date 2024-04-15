@@ -174,6 +174,11 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 
 ![bpDd](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/модель_данных.png)
 
+## USE-Case 
+1. Диаграмма транзакции
+![9g4Jt-3116M](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/117998993/1a21dbc5-37c2-4be8-8d32-e91d28104137)
+
+
 ## Заинтересованные стороны
 
 ![0ibmiIgmvhs](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/6cb999f2-3b29-4309-a79f-7d7186b99955)
