@@ -135,9 +135,6 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 ![bpninth](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Прием_и_обработка_заказа.PNG)
 ![bpten](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Анализ_статистики.png)
 
-## USE-Case 
-1. Диаграмма транзакции
-![9g4Jt-3116M](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/117998993/1a21dbc5-37c2-4be8-8d32-e91d28104137)
 
 ## Контекстная диаграмма
 
