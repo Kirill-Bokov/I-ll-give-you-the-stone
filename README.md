@@ -7,12 +7,13 @@
     - [Функциональные требования](#функциональные-требования)
     - [Метрики качества](#метрики-качества)
 - [Архитектура](#архитектура)
+    - [Архитектурные решения→](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/tree/master/Reports/architecturalSolutions.md)
+    - [Заинтересованные стороны](#заинтересованные-стороны)
     - [Модели и диаграммы](#ссылка-на-модели-и-диаграммы)
     - [Бизнес-процессы](#бизнес-процессы)
     - [Контекстная диаграмма](#контекстная-диаграмма)
     - [Диаграмма классов](#диаграмма-классов)
     - [Диаграмма данных](#диаграмма-данных)
-    - [Заинтересованные стороны](#заинтересованные-стороны)
     - [Обеспечение безопасности→](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/SoftwareSolutions/information_security.md)
 - [Имплементация архитектуры](#имплементация-архитектуры)
     - [Макет сайта](#ссылка-на-макет-сайта)
@@ -176,13 +177,6 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 ![bpDd](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/модель_данных.png)
 
 
-## Заинтересованные стороны
-
-![0ibmiIgmvhs](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/6cb999f2-3b29-4309-a79f-7d7186b99955)
-![XmEcOLiI4Hs](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/fcb5e70b-fc09-4fde-bd74-32621f9c16dc)
-![H4cE4tBu2o8](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/5026360e-c928-4eec-831f-cb78363e6400)
-![Ew8KQF7AXeU](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/283721b6-5766-4313-b517-619e316b3f54)
-
 ## Обеспечение безопасности
 
 [Представлено в Reports/SoftwareSolutions](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/SoftwareSolutions/information_security.md)
@@ -221,4 +215,4 @@ https://docs.google.com/document/d/12VWFEz1BASJv5BKvC6Taj1sMLB4cnxp7r6hYHnpmu9g/
 
 ## Стадии создания
 
-[Представлено в Reports/CreationStages](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/tree/master/Reports/CreationStages)
+[Представлено в Reports/CreationStages](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/tree/master/Reports/SoftwareSolutions)
