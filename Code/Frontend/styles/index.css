@@ -59,11 +59,12 @@ body {
   display: flex;
   justify-content: space-between;
   list-style: none;
-  max-width: 1276px;
+  max-width: 1266px;
   margin: 0 auto;
   min-height: 57px;
   align-items: center;
   padding-left: 10px;
+  border-bottom: 5px solid black;
 }
 
 .navigation-link {
@@ -74,6 +75,7 @@ body {
   font-weight: 400;
   font-size: 36px;
   line-height: 35px;
+  margin-left: -10px;
 }
 
 .navigation-item:last-child {
@@ -85,7 +87,6 @@ body {
 }
 
 .hero-img {
-  border-top: 5px solid #000;
   margin: 0;
   padding: 0;
 }
