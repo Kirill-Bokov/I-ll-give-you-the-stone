@@ -114,6 +114,9 @@
 
 # Архитектура
 
+![dx_eaL_1NT0](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/4ab54ea5-610f-4f24-bd2d-b1c4afde5429)
+
+
 ## Ссылка на модели и диаграммы 
 
 https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=sharing_eip_se_dm&ts=65c63363
