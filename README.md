@@ -177,7 +177,8 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 ![bpkd](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/Контекстнаядиаграмма.png)
 
 ## Диаграмма Use-case
-![t_6dZqhbn1k](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/117998993/e38d4911-5ec4-4e87-b485-b03a2a947bb7)
+![usecase](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/117998993/68409400-d952-425f-b899-c9bf059c8906)
+
 
 
 
