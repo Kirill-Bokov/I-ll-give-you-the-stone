@@ -16,6 +16,12 @@ export interface Provider {
     checkAccount: string
 }
 
+export function parseItem(data: RowDataPacket[][], result: Item[])
+{
+    for(let i=0; i < data.length; i++)
+        result.push({id: Number(data[i][0]), name: String(data[i][1]), cost: Number(data[i][2]), description: String(data[i][3]), count: Number(data[i][4])});
+}
+
 export class ProviderManager {
     public static addProvider(provider: Provider): Promise<number>
     {
@@ -47,15 +53,19 @@ export class ProviderManager {
 export class ItemManager {
     public static getItems(count: number, desc: boolean, filter: string, lastIndex: number): Promise<Item[]>
     {
+        if(count > 50) count = 50;
+        if(count < 10) count = 10;
         let param = desc ? "DESC" : "ASC"
 
         return new Promise((resolve, reject) => {
-            return connection.query<Item[] & RowDataPacket[][]>(`SELECT * FROM item WHERE 1 ORDER BY ${filter} ${param} LIMIT ?, ?`,
+            try {
+            return connection.query<RowDataPacket[][]>(`SELECT * FROM item WHERE 1 ORDER BY ${filter} ${param} LIMIT ?, ?`,
                 [lastIndex, count], (err, res) => {
                     if (err) reject(err)
-                    else resolve(res)
+                    else { let tmp: Item[] = []; parseItem(res, tmp); resolve(tmp); }
                   }
             )
+            } catch {}
         })
     }
 
