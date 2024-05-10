@@ -1,0 +1,94 @@
+openapi: 3.0.3
+info:
+  title: I'll give you the stone
+  description: |-
+    
+  version: 1.0.1
+externalDocs:
+  description: Github
+  url: https://github.com/Kirill-Bokov/I-ll-give-you-the-stone
+servers:
+  - url: https://stone.recolter.ru/api
+tags:
+  - name: item
+    description: Everything about items
+paths:
+  /item/getItems:
+    get:
+      tags:
+        - item
+      summary: Gets some items
+      description: Gets items that you need
+      operationId: getItems
+      parameters:
+        - name: asc
+          in: query
+          description: ASC or DESC (if not defined then DESC)
+          schema:
+            type: integer
+            enum:
+              - 1
+        - name: filter
+          in: query
+          description: Gets items by sort
+          schema:
+            type: string
+            default: id
+            enum:
+              - id
+              - cost
+              - count
+              - name
+        - name: count
+          in: query
+          description: Gets items by count (10-50)
+          schema:
+            type: integer
+            default: 30
+        - name: index
+          in: query
+          description: Count of loaded items
+          schema:
+            type: integer
+            default: 0
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ItemArray'          
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/ItemArray'
+        '502':
+          description: Bad query
+components:
+  schemas:
+    Item:
+        type: object
+        properties:
+            id:
+              type: integer
+              format: int64
+              example: 10
+            name:
+              type: string
+              example: test
+            cost:
+              type: integer
+              example: 1000
+            description:
+              type: string
+              example: test
+            count:
+              type: integer
+              example: 5
+        xml:
+          name: item
+    ItemArray:
+      type: array
+      items:
+        $ref: '#/components/schemas/Item'
+      xml:
+        name: items
