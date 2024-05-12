@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Вход</title>
+    <link
+      rel="icon"
+      href="../Frontend/img/favicon-white.png"
+      type="image/png"
+    />
+    <link rel="stylesheet" href="styles/login.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul class="navigation-list">
+          <li class="navigation-item navigation-logo">
+            <a class="navigation-link" href="index.html">КАМЕНЬ Я ДАМ</a>
+          </li>
+          <li class="navigation-item">
+            <a class="navigation-link" href="#">корзина</a>
+          </li>
+          <li class="navigation-item">
+            <a class="navigation-link" href="index.html">каталог</a>
+          </li>
+          <li class="navigation-item">
+            <a class="navigation-link" href="#">поиск</a>
+          </li>
+          <li class="navigation-item">
+            <a class="navigation-link" href="#">профиль</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main-container">
+      <h1 class="visually-hidden">Профиль пользователя</h1>
+      <section class="account-menu">
+        <h2 class="visually-hidden">Меню аккаунта пользователя</h2>
+        <p class="username">С возвращением</p>
+      </section>
+      <div class="main-wrapper">
+        <form
+          class="login-form"
+          action="https://echo.htmlacademy.ru/"
+          method="get"
+        >
+          <div class="login-wrapper">
+            <label for="email-input" class="login-label">Логин</label>
+            <input
+              class="log-input"
+              type="email"
+              id="email-input"
+              name="email"
+              required
+              minlength="4"
+              maxlength="255"
+              placeholder="введите email"
+            />
+          </div>
+          <div class="password-wrapper">
+            <label for="email-input" class="login-label">Пароль</label>
+
+            <input
+              class="log-input"
+              type="password"
+              id="password-input"
+              name="password"
+              required
+              minlength="4"
+              maxlength="255"
+              placeholder="введите пароль"
+            />
+          </div>
+
+          <div class="check-wrapper">
+            <input
+              class="control-input visually-hidden"
+              type="checkbox"
+              name="password-save"
+              id="pass"
+            />
+            <label for="pass" class="control-checkbox">
+              запомнить на 30 дней
+            </label>
+            <a href="#" class="reset-pass">забыли пароль?</a>
+          </div>
+          <button class="submit-button submit-button-black" type="submit">
+            войти
+          </button>
+          <button class="submit-button" type="button">
+            войти через Google
+          </button>
+          <a href="../Frontend/registration.html" class="registration-btn"
+            >нет аккаунта? зарегистрироваться</a
+          >
+        </form>
+      </div>
+    </main>
+  </body>
+</html>
