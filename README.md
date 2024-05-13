@@ -192,7 +192,7 @@ https://drive.google.com/file/d/1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo/view?usp=shari
 
 ##  Диаграмма данных
 
-![bpDd](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/диаграмма_данных1.png)
+![bpDd](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/blob/master/Reports/BuisnessProcess/диаграмма_данных2.png)
 
 
 ## Диаграммы последовательности 
