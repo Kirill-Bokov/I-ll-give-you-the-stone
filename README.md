@@ -123,7 +123,8 @@
 
 ![dx_eaL_1NT0](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/4ab54ea5-610f-4f24-bd2d-b1c4afde5429)
 
-![Screenshot_17](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/9355d04d-f639-4aff-9c66-e084cd761b24)
+![_RHwOsWqIRM (1)](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/f4ea7cc6-f676-428f-9cdb-fd8970ff1aac)
+
 https://drive.google.com/file/d/1gCyroVqFEPoenKDfOcUPo--MWmEVFFfk/view?usp=sharing
 
 ## Ссылка на модели и диаграммы 
