@@ -4,6 +4,7 @@
 ![Screenshot_24](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/837b63d0-6951-43a0-8843-a7167fdd6037)
 ![Screenshot_25](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/ce4e1657-7189-419c-9c04-e2fbf00bbc21)
 ![Screenshot_26](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/c97b25eb-a9d9-4787-9952-0013adc891d0)
-![Screenshot_27](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/340f76de-bfb7-42c0-9bec-e8f6bafd6611)
-![Screenshot_28](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/e6df9613-5733-440b-aca4-dc9c9f23f33d)
-![Screenshot_30](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/94379072-4631-41ff-94ca-42d01abf04d3)
+
+![Screenshot_37](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/8883ec90-6452-4a14-aa46-0279f41c0b62)
+![Screenshot_38](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/b6286550-9d7e-4a00-8158-ab58c4df0469)
+![Screenshot_39](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/cacbc584-5d92-4514-b159-dcc464ee5ac5)
