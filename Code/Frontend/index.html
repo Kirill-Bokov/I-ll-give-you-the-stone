@@ -21,11 +21,65 @@
           <li class="navigation-item">
             <a class="navigation-link" href="#">корзина</a>
           </li>
-          <li class="navigation-item">
+          <li class="navigation-item navigation-catalog">
             <a class="navigation-link" href="#">каталог</a>
+            <div class="catalog-group">
+              <img class="arrow-catalog" src="../Frontend/img/arrow.svg" />
+              <ul class="catalog-list">
+                <li class="catalog-item">
+                  <a href="#">бусины из камней</a>
+                </li>
+                <li class="catalog-item">
+                  <a href="#">знаки зодиака</a>
+                </li>
+                <li class="catalog-item">
+                  <a href="#">изделия и сувениры</a>
+                </li>
+                <li class="catalog-item">
+                  <a href="#">кабошоны и органка</a>
+                </li>
+                <li class="catalog-item">
+                  <a href="#">камни в эзотерике</a>
+                </li>
+                <li class="catalog-item">
+                  <a href="#">камни и минералы</a>
+                </li>
+                <li class="catalog-item">
+                  <a href="#">книги</a>
+                </li>
+                <li class="catalog-item">
+                  <a href="#">метеориты</a>
+                </li>
+                <li class="catalog-item">
+                  <a href="#">окаменелости</a>
+                </li>
+                <li class="catalog-item">
+                  <a href="#">украшения</a>
+                </li>
+                <li class="catalog-item">
+                  <a href="#">уникальные экспонаты и предметы интерьера</a>
+                </li>
+              </ul>
+            </div>
           </li>
-          <li class="navigation-item">
+          <li class="navigation-item navigation-search">
             <a class="navigation-link" href="#">поиск</a>
+            <div class="catalog-group">
+              <img class="arrow-catalog" src="../Frontend/img/arrow.svg" />
+              <form
+                class="search-form"
+                action="https://echo.htmlacademy.ru/"
+                method="get"
+              >
+                <input
+                  type="search"
+                  id="site-search"
+                  name="site-search"
+                  class="search-input"
+                  placeholder="введите название..."
+                />
+              </form>
+            </div>
           </li>
           <li class="navigation-item">
             <a class="navigation-link" href="profile.html">профиль</a>
@@ -35,7 +89,7 @@
     </header>
     <main class="main-container">
       <div class="main-wrapper">
-        <h1 class="visually-hidden">ААА пасхалко, включаем вентиляторы</h1>
+        <h1 class="visually-hidden">Каталог</h1>
         <img
           src="../Frontend/img/main-img.jpg"
           class="hero-img"
@@ -1489,5 +1543,6 @@
         <img src="../Frontend/img/map.png" alt="карта" />
       </section>
     </footer>
+    <script src="../Frontend/script.js"></script>
   </body>
 </html>

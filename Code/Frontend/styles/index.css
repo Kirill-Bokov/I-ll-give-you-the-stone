@@ -69,6 +69,7 @@ body {
 
 .navigation-link {
   color: black;
+  padding: 16px 0;
   text-decoration: none;
 }
 .navigation-logo {
@@ -79,8 +80,19 @@ body {
 }
 
 .navigation-item:last-child {
-  margin-right: 30px;
+  margin-right: 4px;
+  position: relative;
 }
+
+.navigation-item {
+  padding: 16px 52px;
+}
+
+.navigation-item:first-child {
+  padding: 11px 38px;
+  margin-left: -6px;
+}
+
 .main-container {
   width: 1276px;
   margin: 0 auto;
@@ -102,6 +114,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
+  margin-top: -2px;
 }
 
 .main-info {
@@ -366,4 +379,79 @@ body {
   flex-direction: column;
   padding-left: 11px;
   padding-top: 13px;
+}
+
+.main-info:hover {
+  color: white;
+  background-color: black;
+  transition: 0.5s;
+}
+
+.catalog-group {
+  position: absolute;
+  visibility: hidden;
+  top: 57px;
+  left: -4px;
+}
+
+.catalog-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  position: absolute;
+  top: 40px;
+}
+
+.catalog-item {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  background-color: white;
+  border: 4px solid #000;
+  border-bottom: 0;
+  padding: 2px 5px;
+  width: 290px;
+}
+
+.catalog-item:last-child {
+  border-bottom: 4px solid black;
+}
+
+.navigation-item:hover .catalog-group {
+  visibility: visible;
+}
+
+.navigation-catalog {
+  position: relative;
+}
+
+.navigation-item:hover {
+  outline: 4px solid black;
+}
+
+.catalog-item a {
+  text-decoration: none;
+  color: #000;
+}
+
+.search-input {
+  width: 580px;
+  border: 4px solid black;
+  padding: 2px 5px;
+  position: absolute;
+  right: 0;
+  bottom: -24px;
+  height: 28px;
+}
+
+.search-input::placeholder {
+  color: #000;
+}
+
+.navigation-search {
+  padding: 16px 64px;
+  position: relative;
+}
+.arrow-catalog {
+  width: 203.5px;
 }
