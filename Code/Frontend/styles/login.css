@@ -72,6 +72,7 @@ body {
 
 .navigation-link {
   color: black;
+  padding: 16px 0;
   text-decoration: none;
 }
 .navigation-logo {
@@ -81,14 +82,33 @@ body {
   margin-left: -10px;
 }
 
-.navigation-item:last-child {
-  margin-right: 30px;
-}
 .main-container {
   width: 1276px;
   margin: 0 auto;
 }
 
+.navigation-item:last-child {
+  margin-right: 3px;
+  position: relative;
+}
+
+.navigation-item {
+  padding: 16px 52px;
+}
+
+.navigation-item:first-child {
+  padding: 11px 38px;
+  margin-left: -6px;
+}
+
+.navigation-item:hover {
+  outline: 4px solid black;
+}
+
+.navigation-search {
+  padding: 16px 64px;
+  position: relative;
+}
 /* FOOTER */
 
 .footer-container {

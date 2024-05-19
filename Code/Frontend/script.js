@@ -7,14 +7,14 @@ let currentPosition = 0;
 prevButton.addEventListener("click", () => {
   if (currentPosition > 0) {
     currentPosition--;
-    carouselList.style.transform = `translateX(${currentPosition * -183.5}px)`;
+    carouselList.style.transform = `translateX(${currentPosition * -184}px)`;
   }
 });
 
 nextButton.addEventListener("click", () => {
   if (currentPosition < carouselList.children.length - 6) {
     currentPosition++;
-    carouselList.style.transform = `translateX(${currentPosition * -183.5}px)`;
+    carouselList.style.transform = `translateX(${currentPosition * -184}px)`;
   } else {
   }
 });
