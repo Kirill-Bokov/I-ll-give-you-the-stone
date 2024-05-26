@@ -120,10 +120,10 @@
 
 ## Базовая архитектура 
 Модель C4 — простой метод графической записи для моделирования архитектуры программных систем. Этот метод представления диаграмм понятен и прост, именно по этой причине мы выбрали эту модель.
+![image_2024-05-25_18-03-45](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/ada9072a-3463-40ef-bea1-4e65fc182814)
 
-![dx_eaL_1NT0](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/113982481/4ab54ea5-610f-4f24-bd2d-b1c4afde5429)
+![111](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/56ffd8ca-3a83-49e9-a93d-1ac83d72a624)
 
-![_RHwOsWqIRM (1)](https://github.com/Kirill-Bokov/I-ll-give-you-the-stone/assets/155570357/f4ea7cc6-f676-428f-9cdb-fd8970ff1aac)
 
 https://drive.google.com/file/d/1gCyroVqFEPoenKDfOcUPo--MWmEVFFfk/view?usp=sharing
 
