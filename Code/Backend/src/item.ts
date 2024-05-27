@@ -16,12 +16,6 @@ export interface Provider {
     checkAccount: string
 }
 
-export function parseItem(data: RowDataPacket[][], result: Item[])
-{
-    for(let i=0; i < data.length; i++)
-        result.push({id: Number(data[i][0]), name: String(data[i][1]), cost: Number(data[i][2]), description: String(data[i][3]), count: Number(data[i][4])});
-}
-
 export class ProviderManager {
     public static addProvider(provider: Provider): Promise<number>
     {
@@ -51,7 +45,7 @@ export class ProviderManager {
 }
 
 export class ItemManager {
-    public static getItems(count: number, desc: boolean, filter: string, lastIndex: number): Promise<Item[]>
+    public static getItems(count: number, desc: boolean, filter: string, lastIndex: number, category: number): Promise<Item[]>
     {
         if(count > 50) count = 50;
         if(count < 10) count = 10;
@@ -59,10 +53,10 @@ export class ItemManager {
 
         return new Promise((resolve, reject) => {
             try {
-            return connection.query<RowDataPacket[][]>(`SELECT * FROM item WHERE 1 ORDER BY ${filter} ${param} LIMIT ?, ?`,
+            return connection.query<RowDataPacket[][] & Item[]>(`SELECT * FROM item WHERE ${category ? `id in (SELECT idItem FROM itemCategory WHERE idCategory=${category})` : "1"} ORDER BY ${filter} ${param}, count DESC LIMIT ?, ?`,
                 [lastIndex, count], (err, res) => {
                     if (err) reject(err)
-                    else { let tmp: Item[] = []; parseItem(res, tmp); resolve(tmp); }
+                    else { resolve(res); }
                   }
             )
             } catch {}
