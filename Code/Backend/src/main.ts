@@ -61,6 +61,15 @@ app.post("/api/category/", async (req: Request, res: Response) => {
   res.end();
 });
 
+app.post("/api/category/item/", async (req: Request, res: Response) => {
+  const q = req.body
+
+  if(!q['category'] || !q['item']) { res.write(StoneErrors.QUERY_ERROR()); res.end(); return; }
+
+  res.write(await Callback.HandlePromise(CategoryManager.addItem(Number(q['category']), Number(q['item']))));
+  res.end();
+});
+
 app.get("/api/item/", async (req: Request, res: Response) => {
   const q = req.query
 

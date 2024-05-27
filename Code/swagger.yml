@@ -13,7 +13,121 @@ tags:
   - name: item
     description: Everything about items
 paths:
-  /item/getItems:
+  /user/:
+    get:
+      tags:
+        - user
+      summary: Try to auth user
+      description: Auth user
+      operationId: authUser
+      parameters:
+        - name: email
+          in: query
+          description: Email of user
+          schema:
+            type: string
+        - name: password
+          in: query
+          description: Password of user
+          schema:
+            type: string
+        - name: token
+          in: query
+          description: Token of user (if email and password doent exists)
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: string
+            application/xml:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: string
+        '502':
+          description: Bad query
+    post:
+      tags:
+        - user
+      summary: Add user
+      description: Add user
+      operationId: addUser
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email:
+                  type: string
+                login:
+                  type: string
+                password:
+                  type: string
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: integer
+            application/xml:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: integer
+        '502':
+          description: Bad query
+  /category/item/:
+    post:
+      tags:
+        - itemCategory
+      summary: Add item in category
+      description: Add item in category
+      operationId: addItemCategory
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                category:
+                  type: number
+                item:
+                  type: number
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: integer
+            application/xml:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: integer
+        '502':
+          description: Bad query
+  /item/:
     get:
       tags:
         - item
@@ -61,6 +175,81 @@ paths:
             application/xml:
               schema:
                 $ref: '#/components/schemas/ItemArray'
+        '502':
+          description: Bad query
+    post:
+      tags:
+        - item
+      summary: Add item
+      description: Add item
+      operationId: addItem
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                cost:
+                  type: number
+                desc:
+                  type: string
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: integer
+            application/xml:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: integer
+        '502':
+          description: Bad query
+  /provider/:
+    post:
+      tags:
+        - provider
+      summary: Add provider
+      description: Add provider
+      operationId: addProvider
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                inn:
+                  type: string
+                checkAccount:
+                  type: string
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: integer
+            application/xml:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: integer
         '502':
           description: Bad query
 components:

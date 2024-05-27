@@ -17,6 +17,13 @@ class CategoryManager {
         })
     }
 
+    public static addItem(category: number, item: number) {
+        return new Promise((resolve, reject) => {
+            connection.query<ResultSetHeader>("INSERT INTO itemCategory VALUES (?, ?)", [category, item],
+        (_err, res) => { if(!_err) resolve(res.insertId); else reject(_err) })
+        })
+    }
+
     public static addCategory(name: string, desc: string, parent?: number) {
         return new Promise((resolve, reject) => {
             connection.query<ResultSetHeader>("INSERT INTO category (name, description, parent) VALUES (?, ?, ?)", [name, desc, parent],
