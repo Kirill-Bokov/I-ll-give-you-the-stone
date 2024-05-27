@@ -6,3 +6,5 @@ https://app.diagrams.net/#G1qti0p4eiksP_n_B6XOT3IIjgxSQeeDNo#%7B%22pageId%22%3A%
 
 ## Макет сайта
 https://www.figma.com/design/fNnfCoxTaYQVdUub9OFBx2/камень-я-дам?node-id=0-1&t=FGirEXQjLKRMYxT5-0
+
+https://stone.recolter.ru
